@@ -4,7 +4,7 @@
 Download Link :: https://git-scm.com/downloads
 
 
-## Now Follow These Steps :-
+## Now Follow These Steps To Push Your Code Into Github:-
 1.) git config --global user.name ""
 <br>
 2.) git config --global user.email "" 
