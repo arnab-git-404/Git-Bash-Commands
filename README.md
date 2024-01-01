@@ -8,11 +8,17 @@ Download Link :: https://git-scm.com/downloads
 1.) git config --global user.name ""
 <br>
 2.) git config --global user.email "" 
+<br>
 3.) git clone (Website Link)
+<br>
 4.) cd (Folder Name)
+<br>
 5.) git status
+<br>
 6.) git add .
+<br>
 7.) git commit -m ""
+<br>
 8.) git push origin main
 
 
