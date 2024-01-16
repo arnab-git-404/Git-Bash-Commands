@@ -26,9 +26,12 @@ Download Link :: https://git-scm.com/downloads
 git config -l
 
 
-## Usset configurations 
---unset, like git config user.name --unset
+## User configurations 
+--unset
+<br>
+git config user.name --unset
 
 ## Reset configurations 
 git config user.name "Your Name"
+<br>
 git config user.email "Your Email"
